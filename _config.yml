@@ -10,7 +10,7 @@ title: Cosmos
 email: Anarchy0316@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   工事中...
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "cosmos" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 twitter_username: anarchy0316
 github_username:  anarchy0316 
