@@ -1,13 +1,15 @@
 ---
-layout: default
+layout: page
+title: Daily
+permalink: /daily/
 ---
-
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+ 
 
   <ul class="post-list">
     {% for post in site.posts %}
+     {% if post.type == "daily"  %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -15,6 +17,7 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
+  	 {% endif  %}
     {% endfor %}
   </ul>
 
