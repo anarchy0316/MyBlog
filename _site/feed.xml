@@ -4,10 +4,10 @@
     <title>Cosmos</title>
     <description>工事中...
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 10 Dec 2016 20:23:03 +0800</pubDate>
-    <lastBuildDate>Sat, 10 Dec 2016 20:23:03 +0800</lastBuildDate>
+    <link>http://weibo.com/</link>
+    <atom:link href="http://weibo.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 10 Dec 2016 20:25:29 +0800</pubDate>
+    <lastBuildDate>Sat, 10 Dec 2016 20:25:29 +0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -30,8 +30,8 @@
 
 </description>
         <pubDate>Fri, 09 Dec 2016 00:00:00 +0800</pubDate>
-        <link>/2016/12/09/Daily-Sample.html</link>
-        <guid isPermaLink="true">/2016/12/09/Daily-Sample.html</guid>
+        <link>http://weibo.com/2016/12/09/Daily-Sample.html</link>
+        <guid isPermaLink="true">http://weibo.com/2016/12/09/Daily-Sample.html</guid>
         
         
       </item>
@@ -44,8 +44,8 @@
 
 </description>
         <pubDate>Fri, 09 Dec 2016 00:00:00 +0800</pubDate>
-        <link>/2016/12/09/Code-Sample.html</link>
-        <guid isPermaLink="true">/2016/12/09/Code-Sample.html</guid>
+        <link>http://weibo.com/2016/12/09/Code-Sample.html</link>
+        <guid isPermaLink="true">http://weibo.com/2016/12/09/Code-Sample.html</guid>
         
         
       </item>
