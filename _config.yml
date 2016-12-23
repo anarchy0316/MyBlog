@@ -2,7 +2,7 @@
 name: Cosmos
 email: anarchy0316@gmail.com
 author: Jiacheng Chen
-url: http://www.hifreud.com
+url: http://weibo.com/tourbillonc/
 weibo: http://weibo.com/tourbillonc/
 github: https://github.com/anarchy0316/
 baseurl: ""
@@ -31,8 +31,4 @@ FB:
         short_name : anarchy0316
     disqus :
         short_name :    
-    # facebook :
-    #   appid : 123
-    #   num_posts: 5
-    #   width: 580
-    #   colorscheme: light
+
